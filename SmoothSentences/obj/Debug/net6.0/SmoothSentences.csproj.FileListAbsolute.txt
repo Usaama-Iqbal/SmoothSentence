@@ -1,0 +1,15 @@
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.csproj.AssemblyReference.cache
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.AssemblyInfoInputs.cache
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.AssemblyInfo.cs
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.csproj.CoreCompileInputs.cache
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\bin\Debug\net6.0\SmoothSentences.exe
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\bin\Debug\net6.0\SmoothSentences.deps.json
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\bin\Debug\net6.0\SmoothSentences.runtimeconfig.json
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\bin\Debug\net6.0\SmoothSentences.dll
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\bin\Debug\net6.0\SmoothSentences.pdb
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.dll
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\obj\Debug\net6.0\refint\SmoothSentences.dll
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.pdb
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\obj\Debug\net6.0\SmoothSentences.genruntimeconfig.cache
+E:\Project\LeetCode\SmoothSentences\SmoothSentences\obj\Debug\net6.0\ref\SmoothSentences.dll
